@@ -39,3 +39,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 .history
+/venv
+
+# Input and Output
+/input/
+/input-translated/
